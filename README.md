@@ -1,2 +1,2 @@
 # CalculadoraReact
-Calculadora usando React Native
+Fiz essa calculadora no curso da COD3R na udemy.
