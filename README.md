@@ -1,6 +1,6 @@
 <h2>Olá seja bem vindo(a)</h2>
 <p><code>Esse projeto foi feito acompanhando um curso da COD3ER</code></p>
-<p>Nesse projeto fiz uma calculadora, não a mais oque falar, é uma calculadora kk</p>
+<p>Nesse projeto fiz uma calculadora.</p>
 
 ## 🚀 Nesse projeto foi usado
 * React 
